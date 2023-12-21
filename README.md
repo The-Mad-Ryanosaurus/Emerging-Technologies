@@ -38,6 +38,7 @@ In the same terminal window you used to clone the repository, do the following s
 3. `pip install qiskit`
 4. `pip install qiskit-aer`
 5. `pip install matplotlib` 
+6. `pip install pylatexenc`
 
 
 ### **Step 3: Open Project in Visual Studio Code:**
