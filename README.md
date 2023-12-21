@@ -41,8 +41,8 @@ In the same terminal window you used to clone the repository, do the following s
 
 
 ### **Step 3: Open Project in Visual Studio Code:**
-Still in the same terminal window do the following:
-code .
+Still in the same terminal window do the following:<br>
+code .<br>
 This will open VS code and you can now access and run both jupyter notebooks.
 
 
