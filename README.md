@@ -19,17 +19,15 @@ This repository contains two Jupyter Notebooks focused on quantum computing conc
 The following is a step by step guide on how you can clone this repository down on to your own machine and get it running. Please ensure you have the following prerequisites installed before continuing.
 
 ### **Prerequisites**
-Installation of `git`
+Installation of `git` <br>
 Installation of `Python 3` (versions 3+)
-
 or
-
-Installation of [Anaconda](https://www.anaconda.com/download/)
+Installation of [Anaconda](https://www.anaconda.com/download/)<br>
 Installation of `Visual Studio Code`, with extension `Jupyter`
 
 ### **Step 1: Clone Repository:** 
-In order to clone the github repository, use the following command:
-git clone https://github.com/The-Mad-Ryanosaurus/Emerging-Technologies.git
+In order to clone the github repository, use the following command:<br>
+git clone https://github.com/The-Mad-Ryanosaurus/Emerging-Technologies.git<br>
 This link can be found in the code button at the top of this page under the HTTPS tab.
 
 
