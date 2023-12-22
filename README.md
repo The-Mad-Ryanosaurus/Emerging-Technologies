@@ -22,6 +22,11 @@ This repository contains two Jupyter Notebooks focused on quantum computing conc
 
 The following is a step by step guide on how you can clone this repository down on to your own machine and get it running. Please ensure you have the following prerequisites installed before continuing.
 
+Should you just wish to view the notebooks without installing any software please select the links below:<br>
+
+- **Project Notebook:** [project.ipynb](https://notebooks.gesis.org/binder/jupyter/user/the-mad-ryanosa-ng-technologies-qckm8ta3/doc/tree/project.ipynb)<br>
+- **Tasks Notebook:** [tasks.ipynb](https://notebooks.gesis.org/binder/jupyter/user/the-mad-ryanosa-ng-technologies-wgaywoop/doc/workspaces/auto-N/tree/tasks.ipynb)
+
 ### **Prerequisites**
 
 Installation of `git` <br>
@@ -70,6 +75,6 @@ The following is a guide to setup IBM Quantum Platform so you can simulate the D
    - Once you have an account you can navigate to the `IBM Quantum Platform Dashboard` and copy your `API Token` from the top right of your screen.
 2. **API Token Update:**<br>
    - In the project notebook, users should replace the placeholder `api_token = 'placeholder'` with their own API token from IBM Quantum Platform.
-3. **Run the IBM Quantum Simulation:**<br> 
+3. **Run the IBM Quantum Simulation:**<br>
    - In the project notebook select `|>|> Run All`. This will run all cells in a linear fashion ensuring the connection to an IBM quantum computer is successful and runs the Deutsch's Algorithm on a real quantum device<br>
-   These steps are crucial for users who wish to interact with IBM Quantum Computers and run the Deutsch's Algorithm in my Jupyter notebook.
+     These steps are crucial for users who wish to interact with IBM Quantum Computers and run the Deutsch's Algorithm in my Jupyter notebook.
