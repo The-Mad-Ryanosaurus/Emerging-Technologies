@@ -70,5 +70,6 @@ The following is a guide to setup IBM Quantum Platform so you can simulate the D
    - Once you have an account you can navigate to the `IBM Quantum Platform Dashboard` and copy your `API Token` from the top right of your screen.
 2. **API Token Update:**<br>
    - In the project notebook, users should replace the placeholder `api_token = 'placeholder'` with their own API token from IBM Quantum Platform.
-3. **Run the IBM Quantum Simulation:**<br> - In the project notebook select `|>|> Run All`. This will run all cells in a linear fashion ensuring the connection to an IBM quantum computer is successful and runs the Deutsch's Algorithm on a real quantum device<br>
+3. **Run the IBM Quantum Simulation:**<br> 
+   - In the project notebook select `|>|> Run All`. This will run all cells in a linear fashion ensuring the connection to an IBM quantum computer is successful and runs the Deutsch's Algorithm on a real quantum device<br>
    These steps are crucial for users who wish to interact with IBM Quantum Computers and run the Deutsch's Algorithm in my Jupyter notebook.
