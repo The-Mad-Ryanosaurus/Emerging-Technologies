@@ -48,7 +48,7 @@ In the same terminal window you used to clone the repository, do the following s
 4. `pip install qiskit-aer`
 5. `pip install matplotlib`
 6. `pip install pylatexenc`
-7. `pip install qiskit-ibmq-provider` then do `pip install qiskit-ibm-runtime`: This is so you can connect to IBM Quantum devices to create and visualize circuits and execute them both on simulations and real quantum devices. You can see an example of this in my project notebook.
+7. `pip install qiskit-ibmq-provider` then do `pip install qiskit-ibm-runtime`: This is so you can connect to IBM Quantum devices to create and visualize circuits and execute them both on simulations and real quantum devices. You can see an example of this in my project notebook. [Step 4](#step4)
 8. `pip install qiskit[visualization]`
 
 Remember to restart the Jupyter kernel if you encounter any import errors after installation.
