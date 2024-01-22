@@ -24,8 +24,8 @@ The following is a step by step guide on how you can clone this repository down 
 
 Should you just wish to view the notebooks without installing any software please select the links below:<br>
 
-- **Project Notebook:** [project.ipynb](https://notebooks.gesis.org/binder/jupyter/user/the-mad-ryanosa-ng-technologies-qckm8ta3/doc/tree/project.ipynb)<br>
-- **Tasks Notebook:** [tasks.ipynb](https://notebooks.gesis.org/binder/jupyter/user/the-mad-ryanosa-ng-technologies-wgaywoop/doc/workspaces/auto-N/tree/tasks.ipynb)
+- **Project Notebook:** [project.ipynb](https://hub.ovh2.mybinder.org/user/the-mad-ryanosa-ng-technologies-njbm3v6w/doc/workspaces/auto-V/tree/project.ipynb)<br>
+- **Tasks Notebook:** [tasks.ipynb](https://hub.ovh2.mybinder.org/user/the-mad-ryanosa-ng-technologies-p78v34vt/doc/workspaces/auto-h/tree/tasks.ipynb)
 
 ### **Prerequisites**
 
@@ -66,7 +66,7 @@ Still in the same terminal window do the following:<br>
 code .<br>
 This will open VS code and you can now access and run both jupyter notebooks.
 
-### **Step 4: IBM Quantum Platform (_optinal_)**
+### **Step 4: IBM Quantum Platform (_optional_)**
 
 The following is a guide to setup IBM Quantum Platform so you can simulate the Deutsch's Algorithm in a real world IBM Quantum Computer.
 
