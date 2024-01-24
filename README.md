@@ -25,7 +25,7 @@ The following is a step by step guide on how you can clone this repository down 
 Should you just wish to view the notebooks without installing any software please select the links below:<br>
 
 - **Project Notebook:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-Mad-Ryanosaurus/Emerging-Technologies/main?labpath=project.ipynb)<br>
-- **Tasks Notebook:** [tasks.ipynb](https://hub.ovh2.mybinder.org/user/the-mad-ryanosa-ng-technologies-p78v34vt/doc/workspaces/auto-h/tree/tasks.ipynb)
+- **Tasks Notebook:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-Mad-Ryanosaurus/Emerging-Technologies/main?labpath=tasks.ipynb)
 
 ### **Prerequisites**
 
